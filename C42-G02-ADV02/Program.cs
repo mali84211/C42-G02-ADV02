@@ -80,13 +80,43 @@ namespace C42_G02_ADV02
             //Numbers[6] = 100;
             #endregion
 
-            #region
-            #endregion
+            #region V3
+            //List<int> Numbers = new List<int>(4) { 1, 2, 3, 4};
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.Add(5);
+            //Numbers.AddRange(new int[] {6,7});      
+            //foreach (int item in Numbers)
+            //{
+            //    Console.WriteLine($"{item}");
+            //}
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.Insert(6,8);
+            //foreach (int item in Numbers)
+            //{
+            //    Console.WriteLine($"{item}");
+            //}
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.InsertRange(4, new int[] { 9, 10 });
+            //foreach (int item in Numbers)
+            //{
+            //    Console.WriteLine($"{item}");
+            //}
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
 
-            #region
-            #endregion
+            //int index = Numbers.BinarySearch(9);
+            //Console.WriteLine(index);
+            //Numbers.Clear();
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
 
-            #region
+            //Console.WriteLine(Numbers.Contains(100));
+
+            //List<int> Numbers = new List<int>(4) { 1, 2};
+            //int[] array = new int[2];
+            //Numbers.CopyTo(1,array,5,4);
+            //foreach (int i in array)
+            //{
+            //    Console.WriteLine(i);
+            //}
             #endregion
         }
     }
