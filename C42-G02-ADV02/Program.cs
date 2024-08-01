@@ -47,7 +47,37 @@ namespace C42_G02_ADV02
             //}
             #endregion
 
-            #region
+            #region V2
+            //List<int> Numbers = new List<int>();
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.Add(1);
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.Add(2);
+            //Numbers.AddRange(new int[] {1,2,3});
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.Add(5);
+            //Console.WriteLine("After Adding 5th Element");
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.TrimExcess();
+            //Console.WriteLine("After Trim");
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+
+
+            //List<int> Numbers = new List<int>(5) {1,2,3,4,5};
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //Numbers.Add(6);
+            //Console.WriteLine($"Count of list={Numbers.Count},Capacity of list={Numbers.Capacity}");
+            //foreach (int item in Numbers)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            //Numbers[3] = 40;
+            //for (int i = 0; i < Numbers.Count; i++)
+            //{
+            //    Console.WriteLine(Numbers[i]);
+            //}
+
+            //Numbers[6] = 100;
             #endregion
 
             #region
